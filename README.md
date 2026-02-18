@@ -1,4 +1,5 @@
 # Pemberton & Hale — Real Estate Landing Page
+![Real Estate Landing Page](assets/hero.jpg)
 
 A professional single-page landing page for a real estate agency. Built entirely with AI from a single voice prompt. No frameworks, no dependencies — just HTML, CSS, and JavaScript.
 
@@ -53,3 +54,4 @@ Free to use. Copy it, customize it, ship it.
 ---
 
 Built with AI by [Pro Vibe Coding](https://provibecoding.app)
+
